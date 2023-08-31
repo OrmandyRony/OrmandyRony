@@ -24,7 +24,10 @@ And see more projects on this GitHub profile!
 * [Universidad De San Carlos De Guatemala](https://www.usac.edu.gt/)
 * [Platzi](https://platzi.com/p/OrmandyRony/)
 ## My experience
-I was a Laboratory Assistant Introduction to Computer Programming at [USAC](https://www.usac.edu.gt/).
+Research Asssistant (2023)
+* [](https://ipc21.notion.site/ipc21/Semana-0-78a0db63080548e8bb554566185d190b)
+
+Laboratory Assistant Introduction to Computer Programming at [USAC](https://www.usac.edu.gt/) (2021 - 2023).
 
 * [Introduction to computer Programming](https://ipc21.notion.site/ipc21/Semana-0-78a0db63080548e8bb554566185d190b)
 
