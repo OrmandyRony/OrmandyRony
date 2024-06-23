@@ -2,10 +2,18 @@
 
 I'm Rony, a Science and Systems Student at [USAC](https://www.usac.edu.gt/).
 
+## My languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrmandyRony)](https://github.com/anuraghazra/OrmandyRony)
+
 ## My Dashboard
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrmandyRony)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrmandyRony)](https://github.com/OrmandyRony/)
 
 ## My Projects
+
+### Database
+* [Database 1, Proyecto de Bases de Datos de la Facultad de Ingenieria](https://github.com/OrmandyRony/ProyectoBasesDeDatosFacultad)
+
+* [Database 1, Proyecto de Bases de Datos Simuacion de la Base de datos del TSE](https://github.com/OrmandyRony/base-datos-elecciones-TSE)
 
 ### Compilers
 * [Compilers 1, Lexical and Parsing Analizer](https://github.com/OrmandyRony/OLC1--201807328-)
