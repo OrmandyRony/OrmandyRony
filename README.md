@@ -2,6 +2,9 @@
 
 I'm Rony, a Science and Systems Student at [USAC](https://www.usac.edu.gt/).
 
+## My Dashboard
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrmandyRony)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Projects
 
 ### Compilers
